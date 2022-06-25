@@ -1,0 +1,38 @@
+.lista_foto {
+    width: 50px;
+    border-radius: 70px;
+}
+
+.mostra_foto {
+    width: 100px;
+}
+
+.login-container{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.login-container .login-brand{
+    display: flex;
+    margin-right: 25px;
+    align-items: center;
+    gap: 10px;
+}
+
+.login-container .login-brand img{
+    width: 70px;
+    height: 70px;
+}
+
+.login-container .login-brand .login-title{
+    font-size: 40px;
+}
+
+.register-buttons{
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
